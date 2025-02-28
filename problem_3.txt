@@ -1,6 +1,6 @@
 1. Copy contents from Problem_2/prob_2_output to Problem_3/prob_3_input
 2. Before running make sure to delete prob_3_output, if it already exists.
-3. Before Running make sure to put all the Wikipedia articles in "Wikipedia-EN-20120601_ARTICLES".
+3. Before Running make sure to put the "Wikipedia-EN-20120601_ARTICLES" directory in the "Problem_3" directory.
 
 => In directory "Problem_3" run:
 
