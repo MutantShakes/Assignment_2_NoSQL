@@ -1,5 +1,5 @@
 1. Before running make sure to delete prob_2_output, if it already exists.
-2. Before Running make sure to put all the Wikipedia articles in "Wikipedia-EN-20120601_ARTICLES".
+2. Before Running make sure to put the "Wikipedia-EN-20120601_ARTICLES" directory in the "Problem_2" directory.
 
 => Go to "Problem_2" directory and run:
 
