@@ -1,0 +1,4 @@
+Hadoop MapReduce:  hadoop jar prob_3.jar TimestampDriver prob_3_input prob_3_output
+ ================================================================================
+Python Compare: python3 merge_and_compare.py prob_3_output Wikipedia-EN-20120601_ARTICLES
+

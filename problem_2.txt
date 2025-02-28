@@ -1,0 +1,8 @@
+1. Before running make sure to delete prob_2_output, if it already exists.
+2. Before Running make sure to put all the Wikipedia articles in "Wikipedia-EN-20120601_ARTICLES".
+
+=> Go to "Problem_2" directory and run:
+
+=> hadoop jar prob_2.jar WikiDriver Wikipedia-EN-20120601_ARTICLES prob_2_output
+
+

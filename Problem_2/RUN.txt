@@ -1,0 +1,1 @@
+hadoop jar prob_2.jar WikiDriver Wikipedia-EN-20120601_ARTICLES prob_2_output
